@@ -1,0 +1,11 @@
+{
+    "locale":{
+        "name":"Español (España)",
+        "code":"es_ES",
+        "author":"Ghosty#8204"
+    },
+    "GameInit":"Text Adventures\nCopyright (C) 2017 Archbox\nConsulte LICENSE por cosas de licensia",
+    "WorldCreating":"Creando mundo...",
+    "WorldGenerating":"Generado mundo...",
+    "WorldMoonStart":"Estás varado en la luna... ¿¡Coño, cómo te has llegado aquí!?"
+}

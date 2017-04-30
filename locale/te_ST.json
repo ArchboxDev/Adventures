@@ -1,0 +1,8 @@
+{
+    "locale":{
+        "name":"Test (Debug)",
+        "code":"te_ST",
+        "author":"bubbie#1380"
+    },
+    "GameInit":"well done you meme, fallbacks work"
+}

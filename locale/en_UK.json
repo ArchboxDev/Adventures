@@ -1,0 +1,11 @@
+{
+    "locale":{
+        "name":"English (UK)",
+        "code":"en_UK",
+        "author":"bubbie#1380"
+    },
+    "GameInit":"Text Adventures\nCopyright (C) 2017 Bubbie\nSee LICENSE for licensing stuffs.",
+    "WorldCreating":"Creating world...",
+    "WorldGenerating":"Generating world...",
+    "WorldMoonStart":"You're stranded on the moon. How the hell did you get here?"
+}

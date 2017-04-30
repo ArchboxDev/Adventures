@@ -1,0 +1,10 @@
+{
+    "PreInit":[
+        "./CONFIG.js",
+        "./locale.js",
+        "./world.js"
+    ],
+    "PreInitGlobals":{
+        "fs":"fs"
+    }
+}
